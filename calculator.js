@@ -1,4 +1,4 @@
-// ===== Student Result Calculator (Beginner Version) =====
+// ===== Student Result Calculator =====
 
 // Step 1: Take student name
 let name = prompt("Enter your name:");
